@@ -9,4 +9,3 @@
 External Storage|Some SATA DVD-RW Drive
 |Operating System|Windows Server 2008 Standard
 Standard NetBIOS Hostname|SSM-SRV2008
-
