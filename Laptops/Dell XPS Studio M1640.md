@@ -6,3 +6,5 @@ RAM|4GB DDR3
 Storage|Same SSD as the N410BL and thinkpad
 OS|Windows Vista Home Premium
 Standard NetBIOS Hostname|SSM-XPSSTUDIO
+
+this machine is actually one of my favorite laptops
