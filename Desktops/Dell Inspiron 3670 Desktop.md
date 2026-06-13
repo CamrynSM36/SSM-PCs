@@ -6,4 +6,4 @@ HDD|1TB 3.5" HDD
 OS|Windows 8.1 (Core)
 Standard NetBIOS Hostname| SSM-INSPIRON
 
-dont ask how i got graphics drivers working
+dont ask how i got graphics drivers working.
