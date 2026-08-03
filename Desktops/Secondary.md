@@ -15,14 +15,14 @@ OS(s)|<details><summary>3 Systems</summary><details><summary>Windows Server 2003
 >the GTX 560 thats now in the [HP Pavilion a1610n](https://github.com/CamrynSM36/SSM-PCs/blob/main/Desktops/HP%20Pavilion%20a1620n%20Desktop.md) was in this machine previously. and was removed to make way for the listed GPU which is able to be used with Windows XP through INF modding
 
 # Childhood PC
-these are the specs of the original config i grew up with.(later specs. it started with Windows XP Home Edition(?) but was later upgraded to Windows 7.)
+these are the specs before i was given full ownership of the machine,(aka. the config i grew up with.(later specs. it started with Windows XP Home Edition(iirc, maybe it was Windows XP Professional x64 Edition. i dont really remember) but was later upgraded to Windows 7.))
 
 | | |
 |-|-|
 Motherboard| Gigabyte GA-MA78GM-S2H (Rev 1.1)
-BIOS| Award Modular BIOS v6.00PG (Rev F7)
+BIOS | Award Modular BIOS v6.00PG (Rev F7)
 BIOS MFG | Award Software Inc.
-CPU|AMD Athlon 64 x2 +5000
+CPU | AMD Athlon 64 x2 +5000
 RAM | <details><summary>4GB DDR2</summary> PC2-5600 (GSKILL 2x2GB DDR2 Kit)</details>
 GPU|EVGA GeForce GTX 560 SUPERCLOCKED (2GB GDDR5)
 Internal Storage|2x 500GB Western Digital Blue SATA HDDs
