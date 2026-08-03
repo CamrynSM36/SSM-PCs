@@ -12,4 +12,4 @@ External Storage|<details><summary>2 Devices</summary>Pioneer DVD-RW of some mod
 OS(s)|<details><summary>3 Systems</summary><details><summary>Windows Server 2003</summary> Standard x64 Edition</details>Windows Server 2008 Standard</br>Windows Server 2008 R2 Standard
 
 >[!NOTE]
->the GTX 560 thats now in the [HP Pavilion a1610n](https://github.com/CamrynSM36/SSM-PCs/blob/main/Desktops/HP%20Pavilion%20a1620n%20Desktop.md) was in this machine previously. and was removed to make way for a higher end Windows XP Compatible GPU.
+>the GTX 560 thats now in the [HP Pavilion a1610n](https://github.com/CamrynSM36/SSM-PCs/blob/main/Desktops/HP%20Pavilion%20a1620n%20Desktop.md) was in this machine previously. and was removed to make way for the listed GPU which is able to be used with Windows XP through INF modding
