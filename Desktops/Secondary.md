@@ -1,4 +1,8 @@
 # "Souped up Childhood PC"
+
+>[!NOTE]
+> The OS list may change
+
 | | |
 |-|-|
 Motherboard| Gigabyte GA-MA78GM-S2H (Rev 1.1)
