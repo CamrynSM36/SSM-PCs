@@ -10,8 +10,12 @@ Ethernet Card|D-Link DGE 560T
 Wireless Card|Killer Wireless 1525 802.11ac
 Internal Storage|<details><summary>6 Devices</summary><details><summary>1TB Samsung SSD</summary>(Samsung 980 NVMe M.2-2280)</details><details><summary>2TB Western Digital Blue SSD</summary>(WD Blue SA510 2.5" SATA)</details><details><summary>2TB Western Digital Blue SSD</summary>(WD Blue SA510 SATA M.2-2280)</details><details><summary>4TB Western Digital Blue HDD</summary> WD40EZAZ-00SF3B0 3.5" SATA</details><details><summary>8TB Western Digital Red Plus</summary>WD80EFBX-68AZZN0 3.5" SATA HDD </details><details><summary>8TB Western Digital Blue</summary> WD80EAZZ-00BLKB0 3.5" SATA HDD </details>
 External Storage|HL-DT-ST WHN14NS40 SATA BD-RE Drive
-Operating System(s)| <details><summary>5 Systems</summary>Windows Vista Ultimate Service Pack 2</br>Windows 7 Ultimate Service Pack 1</br>Windows 8 Pro</br>Windows 8.1 Pro</br>Windows 10 Pro 1809</br></details>
-NetBIOS Host Names|<details><summary>5, one per OS</summary>SSM-VISTA</br>SSM-WIN7</br>SSM-WIN8</br>SSM-WIN81</br>SSM-WIN10</details>
+Operating System(s)| <details><summary> Systems</summary>Windows Vista Ultimate Service Pack 2</br>Windows 7 Ultimate Service Pack 1(TBD)</br>Windows 10 Pro 1703(TBD)</br>Arch Linux</details>
+NetBIOS Host Names|<details><summary>6, one per OS</summary>SSM-VISTA</br>SSM-VISTA-ARCH</br>SSM-WIN7</br>SSM-WIN8</br>SSM-WIN81</br>SSM-WIN10</details>
+
+>[!NOTE]
+>Arch Linux is installed to an NTFS Disk, uses GRUB chainloaded through Windows Boot Manager has unity 7.6, and X11</br>
+>NetBIOS Host Names also include previously installed OSs. or OSs to be installed.
 
 ## Second Configuration (Dead)
 | | |
