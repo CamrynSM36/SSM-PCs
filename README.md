@@ -5,7 +5,7 @@
 |Laptops|8|
 |Tablet PCs|2|
 |Macs|2|
-|Steam Machines|1|
+|Steam Machines|2|
 |Thin Clients|1|
 | | |
 |Total|20|
