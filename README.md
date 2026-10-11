@@ -8,4 +8,4 @@
 |Steam Machines|2|
 |Thin Clients|1|
 | | |
-|Total|20|
+|Total|21|
