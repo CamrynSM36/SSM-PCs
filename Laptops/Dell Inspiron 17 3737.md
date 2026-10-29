@@ -1,10 +1,7 @@
 | | |
 |-|-|
-CPU|4th Generation Intel Core i3 of some kind
-iGPU|Intel® HD Graphics 4xxx
+CPU|Intel Core i3 4010U
+iGPU|Intel® HD Graphics 4400 (DEV_0A16)
 RAM|8GB DDR3
-Storage|idr
+Storage|Seagate 500GB HDD
 Standard NetBIOS Hostname| Not assigned as a CyanServSE PC yet
-
->[!NOTE]
->I don't remember the hdd size or exact CPU model. i havent booted it up in a while.
